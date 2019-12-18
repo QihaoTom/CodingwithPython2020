@@ -1,4 +1,4 @@
-## Learning and coding with Python on a daily basis
+# Learning and coding with Python on a daily basis
 > plus *life inpiration and critical thinking*
 
 ### Dec 20191216
