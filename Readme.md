@@ -15,8 +15,8 @@
      * [Homeless families struggle while Newark and NYC battle in court - NBC News Now](https://github.com/QihaoTom/CodingwithPython2020/blob/master/Homeless%20families%20struggle%20while%20Newark%20and%20NYC%20battle%20in%20court%20-%20NBC%20News%20Now%20.md)
     
 ### Dec 20191218
-| What is a good Gift Lists?          |  What is a real role model?        |   
-| -------------|:-------------:|
+| No. | What is a good Gift Lists?          |  What is a real role model?        |   
+| -------------|:-------------:|:-------------:|
 | 1 | a cute hat | **孟母三迁的故事** | 
 | 2 | succulent 多肉植物 |  | 
 | 3 | Airpods | | 
