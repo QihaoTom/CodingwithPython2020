@@ -1,5 +1,4 @@
-## Homeless families struggle while Newark and NYC battle in court | NBC News Now 
-* *20191217*
+## Homeless families struggle while Newark and NYC battle in court | NBC News Now *20191217*
 * unlawful program of **coerced** migration 强迫 | coerced homeless families to move
 * a human solution
 * **inexplicably** 莫名其妙的 single out | **hypocritical**虚伪
