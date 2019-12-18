@@ -6,7 +6,7 @@
      * a faster way to read Jupterbook: https://nbviewer.jupyter.org/
 
      * IELTS口语高频词汇：from 20191217
-           * includes chacater, food, clothes, transportation, sports, amusement, art, education, work, environment, weather, economy, others
+             * includes chacater, food, clothes, transportation, sports, amusement, art, education, work, environment, weather, economy, others
 
 ### Dec 20191217
 * *[20191217 利用政治献金预测美国2012大选]()*
