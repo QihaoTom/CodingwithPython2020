@@ -5,7 +5,11 @@
 > - **Stay Hungry, Stay Foolish**
 
 
-- **Three focuses: Coding (Python), Glossary (Youtube), Photography (DJi Osmo Pocket)**
+- **Three focuses:**
+- **1.Coding (Python),**
+- **2.Glossary (Youtube),**
+- **3.Photography (DJi Osmo Pocket)**
+
 
 *First Week: 20191216 - 22*
 #### Dec 16 2019 Mon
