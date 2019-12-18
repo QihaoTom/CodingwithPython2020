@@ -6,9 +6,9 @@
 
 
 - **Three focuses:**
-- **1.Coding (Python),**
-- **2.Glossary (Youtube),**
-- **3.Photography (DJi Osmo Pocket)**
+    - **1. Coding (Python),**
+    - **2. Glossary (Youtube),**
+    - **3. Photography (DJi Osmo Pocket)**
 
 
 *First Week: 20191216 - 22*
