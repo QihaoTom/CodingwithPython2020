@@ -9,7 +9,7 @@
     * includes chacater, food, clothes, transportation, sports, amusement, art, education, work, environment, weather, economy, others
 
 ### Dec 20191217
-* [20191217 利用政治献金预测美国2012大选]()
+* *[20191217 利用政治献金预测美国2012大选]()*
 
 * [Homeless families struggle while Newark and NYC battle in court - NBC News Now](https://github.com/QihaoTom/CodingwithPython2020/blob/master/Homeless%20families%20struggle%20while%20Newark%20and%20NYC%20battle%20in%20court%20-%20NBC%20News%20Now%20.md)
     
