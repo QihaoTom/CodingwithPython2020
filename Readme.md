@@ -4,6 +4,8 @@
 > - **别人恐惧我贪婪，别人贪婪我恐惧**
 > - **Stay Hungry, Stay Foolish**
 
+- **Three focuses: Coding (Python), Glossary (Youtube), Photography (DJi Osmo Pocket) **
+
 *First Week: 20191216 - 22*
 #### Dec 16 2019 Mon
 * *[20191216 预测天猫双11销售额](https://github.com/QihaoTom/CodingwithPython2020/blob/master/20191216%E9%A2%84%E6%B5%8B%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E9%94%80%E5%94%AE%E9%A2%9D.ipynb)*
