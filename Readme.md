@@ -4,7 +4,7 @@
 > - **别人恐惧我贪婪，别人贪婪我恐惧**
 > - **Stay Hungry, Stay Foolish**
 
-- **Three focuses: Coding (Python), Glossary (Youtube), Photography (DJi Osmo Pocket) **
+* **Three focuses: Coding (Python), Glossary (Youtube), Photography (DJi Osmo Pocket) **
 
 *First Week: 20191216 - 22*
 #### Dec 16 2019 Mon
