@@ -1,6 +1,6 @@
 # Learning and coding with Python on a daily basis
 > plus *life inpiration and critical thinking*
-> **菩提本无树，明镜亦非台，本来无一物，何处惹尘埃**
+> - **菩提本无树，明镜亦非台，本来无一物，何处惹尘埃**
 
 
 
