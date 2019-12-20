@@ -30,6 +30,10 @@
 | 2 | succulent 多肉植物 |  | 
 | 3 | Airpods | | 
 
-#### Dec 10 2019 THU
+#### Dec 19 2019 THU
 - ***[20191219 美国好莱坞电影评分分析]() # 合并 透视 分组 排序 四大方法***
 
+### Dec 20 2019 Fri
+- The next Flint? Implications of Race and Class in Newark Water Crisis - MSNBC
+- The 10 Blackest States in America
+- 20191207China's taste for meat is reshaping Brazil's economy-and its environment - Quartz
