@@ -34,6 +34,6 @@
 - ***[20191219 美国好莱坞电影评分分析]() # 合并 透视 分组 排序 四大方法***
 
 ### Dec 20 2019 Fri
-- The next Flint? Implications of Race and Class in Newark Water Crisis - MSNBC
-- The 10 Blackest States in America
-- 20191207China's taste for meat is reshaping Brazil's economy-and its environment - Quartz
+- [The next Flint? Implications of Race and Class in Newark Water Crisis - MSNBC](https://github.com/QihaoTom/CodingwithPython2020/blob/master/The%20next%20Flint%3F%20Implications%20of%20Race%20and%20Class%20in%20Newark%20Water%20Crisis%20-%20MSNBC.md)
+- [The 10 Blackest States in America](https://github.com/QihaoTom/CodingwithPython2020/blob/master/The%2010%20Blackest%20States%20in%20America.md)
+- [20191207China's taste for meat is reshaping Brazil's economy-and its environment - Quartz](https://github.com/QihaoTom/CodingwithPython2020/blob/master/20191207China's%20taste%20for%20meat%20is%20reshaping%20Brazil's%20economy-and%20its%20environment%20-%20Quartz.md)
